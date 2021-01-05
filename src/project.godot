@@ -26,6 +26,7 @@ config/icon="res://LibreTrainSimLogo_Quad_128.png"
 
 Math="*res://addons/Libre_Train_Sim_Editor/Data/Scripts/Math.gd"
 Root="*res://addons/Libre_Train_Sim_Editor/Data/Scripts/Root.gd"
+Debug="*res://Resources/test/debug.gd"
 
 [debug]
 
